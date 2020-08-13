@@ -27,6 +27,6 @@ I'm a software engineer (and soon to be graduate), doing research work as well a
 
 :bar_chart: Data
 
-:pray: DevOps
+:gear: DevOps
 
 :octocat: Open source software
