@@ -3,8 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-c/)
 
-Hey folks!
-I'm a software enginneer (and soon to be graduate), doing some research work as well as some neat side projects. I've got some experience with web development (Vue, React, Node.js), data engineering (Python, SQL, BigQuery) and cloud-native development (AWS and GCP), amongst some other stuff.
+Hey there, folks!
+I'm a software enginneer (and soon to be graduate), doing research work as well as some neat side projects. I've got experience with web development (Vue, React, Node.js), data engineering (Python, SQL, BigQuery) and cloud-native development (AWS and GCP), amongst some other stuff.
 
 
 ### What I'm up to
