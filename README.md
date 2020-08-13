@@ -3,10 +3,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-c/)
 
-### About me
-:computer: I'm a software engineer
+Hey folks!
+I'm a software enginneer (and soon to be graduate), doing some research work as well as some neat side projects. I've got some experience with web development (Vue, React, Node.js), data engineering (Python, SQL, BigQuery) and cloud-native development (AWS and GCP), amongst some other stuff.
 
-:mortar_board: Finishing up my BSc in Software Engineering from the [JCT](https://www.jct.ac.il/)
+
+### What I'm up to
+:mortar_board: Finishing my BSc in Software Engineering from the [Jerusalem College of Technology](https://www.jct.ac.il/)
 
 :briefcase: Working as a Data Analysis / Engineering research assistant for an academic research project
 
@@ -15,8 +17,6 @@
 
 ### What I've been learning lately
 :whale: Docker
-
-:snowflake: Kubernetes
 
 :older_man: Jenkins
 
@@ -30,4 +30,4 @@
 
 :pray: DevOps
 
-:iphone: New tech
+:octocat: Open source software
