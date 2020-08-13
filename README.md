@@ -1,14 +1,22 @@
+# Hey, Rebeca here! 👋
 ![Rebeca Chinicz](https://profile-gif-bucket-unique-123.s3.amazonaws.com/rc_banner.gif)
 
-- 🔭 I’m currently working on ...
-+ Getting my BSc in Software Engineering from the JCT :mortar_board:
-+ A data analysis and engineering research project
-+ A(nother) serverless web application
-- 🌱 I’m currently learning ...
-+ Docker
-+ Kubernetes
-+ Jenkins
-+ Hadoop
-+ Spark
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-c/)
 
+### About me
+:computer: I'm a software engineer
+:mortar_board: Finishing up my BSc in Software Engineering from the [JCT](https://www.jct.ac.il/)
+:briefcase: Doing data analysis and engineering for a research project
+:cloud: Building a(nother) cloud-based, serverless web application
+
+### What I'm learning
+:whale: Docker
+:snowflake: Kubernetes
+:older_man: Jenkins
+:elephant: Hadoop
+
+### What I love
+:cloud: Cloud computing
+:bar_chart: Data
+:pray: DevOps
+:iphone: New tech
