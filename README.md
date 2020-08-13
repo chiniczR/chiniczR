@@ -5,18 +5,27 @@
 
 ### About me
 :computer: I'm a software engineer
+
 :mortar_board: Finishing up my BSc in Software Engineering from the [JCT](https://www.jct.ac.il/)
+
 :briefcase: Doing data analysis and engineering for a research project
+
 :cloud: Building a(nother) cloud-based, serverless web application
 
 ### What I'm learning
 :whale: Docker
+
 :snowflake: Kubernetes
+
 :older_man: Jenkins
+
 :elephant: Hadoop
 
 ### What I love
 :cloud: Cloud computing
+
 :bar_chart: Data
+
 :pray: DevOps
+
 :iphone: New tech
