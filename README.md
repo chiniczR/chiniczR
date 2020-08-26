@@ -13,15 +13,6 @@ I'm a software engineer (and soon to be graduate), doing research work as well a
 
 :cloud: Building a(nother) cloud-based, serverless web application
 
-
-### What I've been learning lately
-:whale: Docker
-
-:older_man: Jenkins
-
-:elephant: Hadoop
-
-
 ### What I love
 :cloud: Cloud computing
 
