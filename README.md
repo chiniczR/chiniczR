@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [medium.com/@chiniczrebeca](medium.com/@chiniczrebeca)
 
-- 💬 Ask me about **AWS, Docker, Python, REST APIs**
+- 💬 Ask me about **Docker, Python, REST APIs**
 
 - ⚡ Fun fact **earl grey > all other tea**
 
