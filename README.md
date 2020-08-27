@@ -19,6 +19,6 @@
 
 <p align="center">
 <a href="https://twitter.com/rchinicz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rchinicz" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/chiniczrebeca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chiniczrebeca" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/rebeca-c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chiniczrebeca" height="30" width="30" /></a>
 <a href="https://medium.com/@chiniczrebeca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chiniczrebeca" height="30" width="30" /></a>
 </p>
