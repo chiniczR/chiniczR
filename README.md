@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rebeca Chinicz</h1>
-<h3 align="center">Software & IT Engineer | Web Developer</h3>
+<h3 align="center">Data Developer | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiniczr" alt="chiniczr" /> </p>
 
