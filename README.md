@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on a **microservices, message-broker backed app**
 
-- 🌱 I’m currently learning **Ansible, Terraform**
-
 - 📝 I sometimes write articles on [medium.com/@chiniczrebeca](medium.com/@chiniczrebeca)
 
 - ⚡ Fun fact: **I spend an average of 3.6 hours a day listening to music**
