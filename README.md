@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiniczr" alt="chiniczr" /> </p>
 
-- 🔭 I’m currently working on a **microservices, message-broker backed app**
+- 🔭 I’m currently studying towards a **M.S. in Marine Technologies**, focusing on **Deep Learning and Signal Processing**.
 
 - 📝 I sometimes write articles on [medium.com/@chiniczrebeca](medium.com/@chiniczrebeca)
 
