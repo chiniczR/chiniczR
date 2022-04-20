@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying towards a **M.S. in Marine Technologies**, focusing on **Deep Learning and Signal Processing**.
 
-- 📝 I sometimes write articles on [medium.com/@chiniczrebeca](medium.com/@chiniczrebeca)
+- 📝 I sometimes write articles on [https://medium.com/@chiniczrebeca](medium.com/@chiniczrebeca)
 
 - ⚡ Fun fact: **I spend an average of 3.6 hours a day listening to music**
 
