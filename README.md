@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiniczr" alt="chiniczr" /> </p>
 
+- 💻 I’m a **Data Developer**, with three years of experience, mainly with relational databases.
+
 - 🔭 I’m currently studying towards a **M.S. in Marine Technologies**, focusing on **Statistics and Multimodal Image Processing**.
 
 - 📝 I sometimes write articles on [medium.com/@chiniczrebeca](https://medium.com/@chiniczrebeca)
