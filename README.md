@@ -11,7 +11,7 @@
   - Research publication: <a href="https://www.mdpi.com/2072-4292/16/4/689/htm">A Statistical Evaluation of the Connection between Underwater Optical and Acoustic Images</a>
 
 - 📝 I sometimes write articles on [medium.com/@chiniczrebeca](https://medium.com/@chiniczrebeca)
-  - My latest article gives an overview of a project I worked on while ago, about **data engineering for machine learning** and video games: <a href="https://medium.com/gitconnected/practical-machine-learning-with-lol-a-simple-predictive-use-case-with-data-collection-learning-c2b6e621df66">Practical Machine Learning with LoL: a Simple Predictive Use-Case with Data Collection, Learning and Explainability</a>
+  - My latest article gives an overview of a recent project about **data engineering for machine learning** and video games: <a href="https://medium.com/gitconnected/practical-machine-learning-with-lol-a-simple-predictive-use-case-with-data-collection-learning-c2b6e621df66">Practical Machine Learning with LoL: a Simple Predictive Use-Case with Data Collection, Learning and Explainability</a>
 
 - ⚡ Fun fact: **I spend an average of nearly 4 hours a day listening to music**
 
