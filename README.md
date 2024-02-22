@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiniczr" alt="chiniczr" /> </p>
 
-- 💻 I’m a **Software & Data Developer**, with three years of experience, mainly with relational databases.
+- 💻 I’m a **Software & Data Developer**, with three years of experience, mainly with relational databases:
   - I used to do freelance **web development**, specifically for **cloud-based web applications**.
-  - More recently, for the past couple of years I have been working with **database systems analysis and development**.
+  - More recently, for the past couple of years I have been working with **DB systems analysis and development**.
 
-- 🔭 I hold **B.S. in Computer Science**, and just completed a **M.S. in Marine Technologies**.
+- 🔭 I hold a **B.S. in Computer Science**, and just completed a **M.S. in Marine Technologies**.
   - Research publication: <a href="https://www.mdpi.com/2072-4292/16/4/689/htm">A Statistical Evaluation of the Connection between Underwater Optical and Acoustic Images</a>
 
 - 📝 I sometimes write articles on [medium.com/@chiniczrebeca](https://medium.com/@chiniczrebeca)
