@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rebeca Chinicz</h1>
+<h1 align="center">Hi there 👋, I'm Rebeca Chinicz</h1>
 <h3 align="center">Data Developer | Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiniczr" alt="chiniczr" /> </p>
-
-- 💻 I’m a **Software & Data Developer**, with three years of experience, mainly with relational databases:
+- 💻 I’m a **Software & Data Developer**, with four years of experience, mainly with relational databases:
   - I used to do freelance **web development**, specifically for **cloud-based web applications**.
   - More recently, for the past couple of years I have been working with **DB systems analysis and development**.
 
