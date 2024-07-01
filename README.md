@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Rebeca Chinicz</h1>
 <h3 align="center">Data Developer | Software Engineer</h3>
 
-- 💻 I’m a **Software & Data Developer**, with four years of experience, mainly with relational databases:
+- 💻 I’m a **Software & Data Developer**, with four years of experience:
   - I used to do freelance **web development**, specifically for **cloud-based web applications**.
-  - More recently, for the past couple of years I have been working with **DB systems analysis and development**.
+  - For the past couple of years I was working with **DB systems analysis and development**.
+  - Recently, I've been working as a **Backend Software Engineer** with cloud-based netowrk services.
 
 - 🔭 I hold a **B.S. in Computer Science**, and just completed a **M.S. in Marine Technologies**.
   - Research publication: <a href="https://www.mdpi.com/2072-4292/16/4/689/htm">A Statistical Evaluation of the Connection between Underwater Optical and Acoustic Images</a>
