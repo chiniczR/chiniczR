@@ -4,7 +4,7 @@
 - 💻 I’m a **Software & Data Developer**, with four years of experience:
   - I used to do freelance **web development**, specifically for **cloud-based web applications**.
   - For the past couple of years I was working with **DB systems analysis and development**.
-  - Recently, I've been working as a **Backend Software Engineer** with cloud-based netowrk services.
+  - Recently, I've been working as a **Backend Software Engineer** with cloud-based network services.
 
 - 🔭 I hold a **B.S. in Computer Science**, and just completed a **M.S. in Marine Technologies**.
   - Research publication: <a href="https://www.mdpi.com/2072-4292/16/4/689/htm">A Statistical Evaluation of the Connection between Underwater Optical and Acoustic Images</a>
